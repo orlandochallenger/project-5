@@ -1,0 +1,22 @@
+/* ============================================= */
+/*              Base styles                      */
+/* ============================================= */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input {
+  padding: 1rem;
+  margin: 25px auto;
+  border-radius: 5px;
+  width: 35%;
+  display: flex;
+}
+
+.container {
+  max-width: 60%;
+  margin: 0 auto;
+}
